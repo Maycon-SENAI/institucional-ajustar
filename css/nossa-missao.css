@@ -1,0 +1,62 @@
+body {
+    /* background; */
+    /* overflow-y: hidden; */
+}
+
+.cabeçalho{
+    color: #2E4E9D;
+    display: flex;
+    justify-content: center;
+}
+
+.Nossa-Missão{
+    display: flex;
+    justify-content: center;
+     background-color: rgba(253, 247, 235, 0.212);
+}
+
+
+.nm-imagens-s{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.im1{
+    height: 168px;
+    width: 254px;
+}
+.nm-imagem-1{
+    height: 168px;
+    width: 254px;
+    border: 1px solid white;
+}
+
+.im2{
+    height: 168px;
+    width: 254px;
+}
+.nm-imagem-2{
+    height: 168px;
+    width: 254px;
+    border: 1px solid white;
+}
+
+.im3{
+    height: 168px;
+    width: 272px;
+}
+.nm-imagem-3{
+    height: 168px;
+    width: 254px;
+    border: 1px solid white;
+}
+
+.im4{
+    height: 168px;
+    width: 254px;
+}
+.nm-imagem-4{
+    height: 168px;
+    width: 254px;
+    border: 1px solid white;
+}

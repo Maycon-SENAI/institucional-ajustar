@@ -1,0 +1,43 @@
+.banner--info-bottom {
+    border: 2px solid red;
+    background-color: #00FFA3;
+}
+
+.informativo-1 {
+    border: 2px solid green;
+    display: flex;
+    width: 22%;
+}
+
+.image--logo {
+    border: 2px solid blue;
+}
+
+.text--logo {
+    border: 2px solid black;
+    text-align: center; 
+}
+
+.informativo-2 {
+    border: 2px solid green;
+    display: flex;
+    width: 22%;
+}
+
+.informativo-3 {
+    border: 2px solid green;
+    display: flex;
+    width: 22%;
+}
+
+.informativo-4 {
+    border: 2px solid green;
+    display: flex;
+    width: 22%;
+}
+
+.informativo-5 {
+    border: 2px solid green;
+    display: flex;
+    width: 22%;
+}
